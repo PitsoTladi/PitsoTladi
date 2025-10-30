@@ -1,4 +1,4 @@
-# Hey there 👋, I'm Pitso!
+# Hey there Stranger👋, I'm Pitso!
 Welcome to my GitHub.
 
 ---
