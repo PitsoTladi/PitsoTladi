@@ -7,7 +7,7 @@ Welcome to my GitHub.
 I’m a passionate software engineer based in **Johannesburg, South Africa** 🇿🇦.  
 I specialize in **Python** and **Java** development, driven by the power of code to solve real-world problems.  
 One of my favorite sayings: *“Code is poetry written in 0's and 1's 😃.”*  
-In my own words: *“A born again hooligan only to be king again.”*  
+
 
 I have a keen interest in **open-source technologies**.  
 When I’m not coding, I love exploring new frameworks,reading, learning innovative tech, and finding creative ways to bring ideas to life.
